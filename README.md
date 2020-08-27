@@ -1,0 +1,2 @@
+# AutoDino
+Automated Dinosaur Game
